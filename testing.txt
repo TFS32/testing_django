@@ -1,2 +1,4 @@
 This file is only testing.
-This file is testing again
+This file is testing again.
+
+A new line has been added.
