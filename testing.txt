@@ -4,3 +4,7 @@ This file is testing again.
 A new line has been added.
 
 And another one.
+
+Adding a new line here.
+
+Empty this file or not?
