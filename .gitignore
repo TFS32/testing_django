@@ -1,0 +1,5 @@
+.venv
+.venvscriptsactivate
+Lib
+Scripts
+pyvenv.cfg
